@@ -1,0 +1,7 @@
+aws_region                = "us-east-1"
+aws_profile               = "default"
+abuseipdb_api_key         = "REPLACE_ME"
+slack_webhook_url         = "none"
+alert_email               = "you@example.com"
+honey_bucket_name         = "platform-prod-configs-a3f9"
+canary_key_rotation_count = 1
