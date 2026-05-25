@@ -1,0 +1,10 @@
+terraform/terraform.tfvars
+terraform/*.tfstate
+terraform/*.tfstate.backup
+lambda/enrichment.zip
+.env
+**/__pycache__/
+*.pyc
+.DS_Store
+.terraform/
+.terraform.lock.hcl
