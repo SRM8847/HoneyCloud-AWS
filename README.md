@@ -4,9 +4,6 @@ A cloud-native deception and detection framework built on AWS. HoneyCloud deploy
 canary resources that no legitimate user has any reason to touch — every alert is a
 real detection with zero false positives by design.
 
-Built as a portfolio project demonstrating infrastructure-as-code, cloud threat
-detection, and incident response automation.
-
 ---
 
 ## Prerequisites
