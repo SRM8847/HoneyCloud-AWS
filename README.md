@@ -18,7 +18,6 @@ real detection with zero false positives by design.
 | pip | any | `sudo apt install python3-pip` |
 | zip | any | `sudo apt install zip` |
 
-You need an AWS account with an IAM user that has admin permissions.
 ---
             
 ## Deployment
