@@ -356,6 +356,10 @@ Lambda Enrichment
     ▼
 SNS → Email Alert
 ```
+## Alert in Action
+![Email Alert](images/images(21).png)
+
+
 
 ---
 
